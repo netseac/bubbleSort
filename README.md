@@ -1,1 +1,1 @@
-# bubble_sort
+# Golang bubble sort implementation
